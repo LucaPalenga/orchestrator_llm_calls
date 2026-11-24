@@ -1,0 +1,2 @@
+2026-11-24 10:08:07,063 - orchestrator_llm_calls - DEBUG - <module>:7 - solo dettaglio
+2026-11-24 10:08:07,063 - orchestrator_llm_calls - WARNING - <module>:8 - deve finire anche in errors.log
